@@ -1,3 +1,4 @@
+# Manuel is making changes
 Python for Geosciences
 ======================
 
